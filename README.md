@@ -44,3 +44,6 @@ The dataset used in this project can vary depending on the specific analysis. It
 - pandas
 - matplotlib
 - seaborn
+![Screenshot (1593)](https://github.com/user-attachments/assets/797fe2b1-0d6f-4b19-a988-553c90dba4d5)
+![Screenshot (1594)](https://github.com/user-attachments/assets/e097e3e3-ceb7-4cc2-b8c8-ff0bb3c11bb9)
+![Screenshot (1595)](https://github.com/user-attachments/assets/e028a0e5-8425-46a6-bd42-e83d4e8e7088)
